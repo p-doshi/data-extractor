@@ -1,0 +1,15 @@
+1.
+
+
+2. for easy working I have created to separate files
+    one for reading text from the given url and
+    other to process the text. If any changes are
+    made to the URL texts I request please run the
+    main.py again for the output folder to be updated.
+    Then to check the analysis simply run the Text_processing
+    file
+
+3. pip install nltk
+    pip install syllapy
+    pip install openpyxl
+    pip install pandas beautifulsoup4 requests

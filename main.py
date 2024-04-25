@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import os
 
-df = pd.read_excel("Input.xlsx")
+df = pd.read_excel("black_coffer/Input.xlsx")
 
 output_folder = "output"
 os.makedirs(output_folder, exist_ok=True)
@@ -37,4 +37,4 @@ for i, row in df.iterrows():
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(f"{title}\n\n{art_text}")
 
-print("Article Extracted :)")
+print("Articles Extracted :)")
