@@ -1,4 +1,10 @@
-1.
+I would like to thank you guys for the opportunity and this project
+enhanced my skills and knowledge about a lot of things. I learnt a lot :)
+
+1. Beautiful soup was something new to me, so I researched a bit
+    on that and learned how to read from URLs. Text processing was
+    fairly easy as it mainly dealt with reading and writing to files
+    and basic functions whose math was already provided.
 
 
 2. for easy working I have created to separate files
@@ -13,3 +19,5 @@
     pip install syllapy
     pip install openpyxl
     pip install pandas beautifulsoup4 requests
+    I believe these are the only installations I made
+    for this project that weren't already there on my device
